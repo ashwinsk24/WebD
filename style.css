@@ -1,0 +1,73 @@
+h1 {
+    text-align:center;
+}
+.parent
+{
+    
+    height: 150px;
+    width: 900px;
+    background-color: skyblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-radius: 15px;
+    align-items: center;
+    margin-left: 250px;
+ 
+
+}
+
+.child
+{
+    text-align: center;
+    font-size: 20px;
+    height: 90px;
+    width: 90px;
+    display: flex;
+    align-items: center;
+    margin:auto;
+    border-radius: 50%;
+    color: white;
+    justify-content: center;
+}
+
+.child1
+{
+
+    background-color: violet;
+    
+}
+.child2
+{
+    background-color: indigo;
+    
+}
+.child3
+{
+    background-color: blue;
+    
+}
+
+.child4
+{
+    background-color: green;
+    
+}
+
+.child5
+{
+    background-color: yellow;
+    
+}
+
+.child6
+{
+    background-color: orange;
+    
+}
+
+.child7
+{
+    background-color: red;
+    
+}
